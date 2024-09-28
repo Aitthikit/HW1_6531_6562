@@ -69,7 +69,7 @@
    ```sh
    rqt
    ```
-![alt text](https://github.com/aitthikit/FUN4_6562/blob/main/System.png?raw=true)
+![alt text](https://github.com/aitthikit/HW1_6531_6562/blob/main/rvizconfig.png?raw=true)
 
 ## How to Fix when Bug
 1. If it cannot run node or launch file:
