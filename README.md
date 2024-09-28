@@ -32,13 +32,13 @@
 ### 2. Install Package
 1. Clone taohunza2 package
    ```sh
-   git clone https://github.com/Aitthikit/Exam1Renew_ws.git
+   git clone https://github.com/Aitthikit/HW1_6531_6562.git
    ```
 
 ### 3. Setup Environment
 1. Navigate to the project directory
    ```sh
-    cd Exam1Renew_ws
+    cd HW1_6531_6562
     ```
 2. Remove Build install and log Before build:
     ```sh
