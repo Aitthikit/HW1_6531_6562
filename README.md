@@ -65,11 +65,11 @@
    ```sh
    ros2 run taohunza2 teleop_key.py
    ``` 
-4. Run rqt :
+3. Run rqt :
    ```sh
    rqt
    ```
-
+![alt text](https://github.com/aitthikit/FUN4_6562/blob/main/System.png?raw=true)
 
 ## How to Fix when Bug
 1. If it cannot run node or launch file:
