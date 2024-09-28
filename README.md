@@ -72,6 +72,19 @@
 
 
 ## How to Fix when Bug
+1. If it cannot run node or launch file:
+   
+    1.1. Restart your terminal
+   
+    2.2. Rebuild & source
+    ```sh
+    colon build
+    source install/setup.bash
+    ```
+2. Turtle can't eat pizza :
+   
+   1.1. Tune gain (Recomend kp : 1 , kp_angular : 10)
+   
 4. Something else :
    
    2.1. Kill all node
@@ -79,6 +92,5 @@
    2.2. Restart your computer
    
    2.3. Ask chatGPT and let's fix it
-
    2.4. 
 
